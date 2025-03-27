@@ -6,12 +6,12 @@
 The **Real-time Face Recognition System** is a Python-based application that detects and recognizes faces using **OpenCV** and **Local Binary Patterns Histogram (LBPH)**. The system allows capturing and storing facial data, training a recognition model, and identifying individuals in real-time. This project is ideal for **security, attendance tracking, and identity verification**.
 
 ## ✨ Features
-✅ **Real-time Face Detection** using Haar cascades.
-✅ **Face Recognition** with LBPH for fast and efficient identification.
-✅ **Multi-Angle Training** to improve recognition accuracy.
-✅ **Automatic Model Updating** when new faces are added.
-✅ **Threaded Execution** for optimized performance.
-✅ **Graphical Interface (Planned Enhancement)**.
+-✅ **Real-time Face Detection** using Haar cascades.
+-✅ **Face Recognition** with LBPH for fast and efficient identification.
+-✅ **Multi-Angle Training** to improve recognition accuracy.
+-✅ **Automatic Model Updating** when new faces are added.
+-✅ **Threaded Execution** for optimized performance.
+-✅ **Graphical Interface (Planned Enhancement)**.
 
 ## 📋 System Requirements
 ### Hardware
