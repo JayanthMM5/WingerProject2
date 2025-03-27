@@ -1,6 +1,6 @@
 # Real-time Face Recognition - README
 
-![Face Recognition](images/face_recognition_banner.jpg)
+![Face Recognition]([images/face_recognition_banner.jpg](https://www.swiftlane.com/static/da27c6bbc87ffee7ad56f5d1d795ac79/a8acc/3.jpg))
 
 ## 📌 Introduction
 The **Real-time Face Recognition System** is a Python-based application that detects and recognizes faces using **OpenCV** and **Local Binary Patterns Histogram (LBPH)**. The system allows capturing and storing facial data, training a recognition model, and identifying individuals in real-time. This project is ideal for **security, attendance tracking, and identity verification**.
